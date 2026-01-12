@@ -1,5 +1,5 @@
 ## Hi there 👋
-#I'm currently working on increasing my machine learning knowledge by myself beside my IA study.
+#I'm currently working on increasing my machine learning knowledge by myself beside my AI study.
 <!--
 **thomaslfbv/thomaslfbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
